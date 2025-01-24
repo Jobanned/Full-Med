@@ -1,0 +1,54 @@
+C:\Users\L64Y08W05\source\repos\lab act\lab act\bin\Debug\net8.0-windows\lab act.exe
+C:\Users\L64Y08W05\source\repos\lab act\lab act\bin\Debug\net8.0-windows\lab act.deps.json
+C:\Users\L64Y08W05\source\repos\lab act\lab act\bin\Debug\net8.0-windows\lab act.runtimeconfig.json
+C:\Users\L64Y08W05\source\repos\lab act\lab act\bin\Debug\net8.0-windows\lab act.dll
+C:\Users\L64Y08W05\source\repos\lab act\lab act\bin\Debug\net8.0-windows\lab act.pdb
+C:\Users\L64Y08W05\source\repos\lab act\lab act\obj\Debug\net8.0-windows\lab_act.Form1.resources
+C:\Users\L64Y08W05\source\repos\lab act\lab act\obj\Debug\net8.0-windows\lab_act.Form2.resources
+C:\Users\L64Y08W05\source\repos\lab act\lab act\obj\Debug\net8.0-windows\lab_act.Form3.resources
+C:\Users\L64Y08W05\source\repos\lab act\lab act\obj\Debug\net8.0-windows\lab_act.Form4.resources
+C:\Users\L64Y08W05\source\repos\lab act\lab act\obj\Debug\net8.0-windows\lab act.csproj.GenerateResource.cache
+C:\Users\L64Y08W05\source\repos\lab act\lab act\obj\Debug\net8.0-windows\lab act.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L64Y08W05\source\repos\lab act\lab act\obj\Debug\net8.0-windows\lab act.AssemblyInfoInputs.cache
+C:\Users\L64Y08W05\source\repos\lab act\lab act\obj\Debug\net8.0-windows\lab act.AssemblyInfo.cs
+C:\Users\L64Y08W05\source\repos\lab act\lab act\obj\Debug\net8.0-windows\lab act.csproj.CoreCompileInputs.cache
+C:\Users\L64Y08W05\source\repos\lab act\lab act\obj\Debug\net8.0-windows\lab act.dll
+C:\Users\L64Y08W05\source\repos\lab act\lab act\obj\Debug\net8.0-windows\refint\lab act.dll
+C:\Users\L64Y08W05\source\repos\lab act\lab act\obj\Debug\net8.0-windows\lab act.pdb
+C:\Users\L64Y08W05\source\repos\lab act\lab act\obj\Debug\net8.0-windows\lab act.genruntimeconfig.cache
+C:\Users\L64Y08W05\source\repos\lab act\lab act\obj\Debug\net8.0-windows\ref\lab act.dll
+C:\Users\L64Y08W05\source\repos\lab act\lab act\obj\Debug\net8.0-windows\lab_act.Form5.resources
+C:\Users\L64Y08W05\source\repos\lab act\lab act\obj\Debug\net8.0-windows\lab_act.Form6.resources
+C:\Users\L64Y08W05\source\repos\lab act\lab act\obj\Debug\net8.0-windows\lab_act.Properties.Resources.resources
+C:\Users\L64Y08W05\source\repos\lab act\lab act\obj\Debug\net8.0-windows\lab_act.Form10.resources
+C:\Users\L64Y08W05\source\repos\lab act\lab act\obj\Debug\net8.0-windows\lab_act.Form7.resources
+C:\Users\L64Y08W05\source\repos\lab act\lab act\obj\Debug\net8.0-windows\lab_act.Form8.resources
+C:\Users\L64Y08W05\source\repos\lab act\lab act\obj\Debug\net8.0-windows\lab_act.Form9.resources
+C:\Users\ckarl\source\repos\lab act\lab act\obj\Debug\net8.0-windows\lab act.dll
+C:\Users\ckarl\source\repos\lab act\lab act\obj\Debug\net8.0-windows\refint\lab act.dll
+C:\Users\ckarl\source\repos\lab act\lab act\obj\Debug\net8.0-windows\lab act.pdb
+C:\Users\ckarl\source\repos\lab act\lab act\bin\Debug\net8.0-windows\lab act.exe
+C:\Users\ckarl\source\repos\lab act\lab act\bin\Debug\net8.0-windows\lab act.deps.json
+C:\Users\ckarl\source\repos\lab act\lab act\bin\Debug\net8.0-windows\lab act.runtimeconfig.json
+C:\Users\ckarl\source\repos\lab act\lab act\bin\Debug\net8.0-windows\lab act.dll
+C:\Users\ckarl\source\repos\lab act\lab act\bin\Debug\net8.0-windows\lab act.pdb
+C:\Users\ckarl\source\repos\lab act\lab act\obj\Debug\net8.0-windows\lab_act.Form1.resources
+C:\Users\ckarl\source\repos\lab act\lab act\obj\Debug\net8.0-windows\lab_act.Form10.resources
+C:\Users\ckarl\source\repos\lab act\lab act\obj\Debug\net8.0-windows\lab_act.Form2.resources
+C:\Users\ckarl\source\repos\lab act\lab act\obj\Debug\net8.0-windows\lab_act.Form3.resources
+C:\Users\ckarl\source\repos\lab act\lab act\obj\Debug\net8.0-windows\lab_act.Form4.resources
+C:\Users\ckarl\source\repos\lab act\lab act\obj\Debug\net8.0-windows\lab_act.Form5.resources
+C:\Users\ckarl\source\repos\lab act\lab act\obj\Debug\net8.0-windows\lab_act.Form6.resources
+C:\Users\ckarl\source\repos\lab act\lab act\obj\Debug\net8.0-windows\lab_act.Form7.resources
+C:\Users\ckarl\source\repos\lab act\lab act\obj\Debug\net8.0-windows\lab_act.Form8.resources
+C:\Users\ckarl\source\repos\lab act\lab act\obj\Debug\net8.0-windows\lab_act.Form9.resources
+C:\Users\ckarl\source\repos\lab act\lab act\obj\Debug\net8.0-windows\lab_act.Properties.Resources.resources
+C:\Users\ckarl\source\repos\lab act\lab act\obj\Debug\net8.0-windows\lab act.csproj.GenerateResource.cache
+C:\Users\ckarl\source\repos\lab act\lab act\obj\Debug\net8.0-windows\lab act.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ckarl\source\repos\lab act\lab act\obj\Debug\net8.0-windows\lab act.AssemblyInfoInputs.cache
+C:\Users\ckarl\source\repos\lab act\lab act\obj\Debug\net8.0-windows\lab act.AssemblyInfo.cs
+C:\Users\ckarl\source\repos\lab act\lab act\obj\Debug\net8.0-windows\lab act.csproj.CoreCompileInputs.cache
+C:\Users\ckarl\source\repos\lab act\lab act\obj\Debug\net8.0-windows\lab act.sourcelink.json
+C:\Users\ckarl\source\repos\lab act\lab act\obj\Debug\net8.0-windows\lab act.genruntimeconfig.cache
+C:\Users\ckarl\source\repos\lab act\lab act\obj\Debug\net8.0-windows\ref\lab act.dll
+C:\Users\ckarl\source\repos\lab act\lab act\obj\Debug\net8.0-windows\lab_act.Form12.resources
